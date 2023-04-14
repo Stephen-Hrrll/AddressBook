@@ -18,5 +18,6 @@ public class MainWindow extends BorderPane {
         
         // Add the tab pane to the center of the main window
         setCenter(tabPane);
+        //
     }
 }

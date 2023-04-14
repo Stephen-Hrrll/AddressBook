@@ -14,5 +14,6 @@ public class AddressBookApp extends Application {
         stage.setTitle("Address Book");
         stage.setScene(new Scene(mainWindow, 800, 600));
         stage.show();
+        //
     }
 }
